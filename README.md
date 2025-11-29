@@ -2,10 +2,8 @@
 Made by Shreyas, Deep and Sanya.
 
 # Data Collection
-we looked around : //sites\
-we found..\
-but however..\
-yet we did...
+https://www.overleaf.com/project/692b2967aa4e3c8e988cd9d2
+
 
 # Data Preprocessing
 
